@@ -1,0 +1,13 @@
+[remap]
+
+importer="image"
+type="Image"
+path="res://.import/Yellow.png-29ebbf3cb083c7534526aa04613a279a.image"
+
+[deps]
+
+source_file="res://Assets/Background/Yellow.png"
+dest_files=[ "res://.import/Yellow.png-29ebbf3cb083c7534526aa04613a279a.image" ]
+
+[params]
+

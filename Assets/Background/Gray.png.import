@@ -1,0 +1,13 @@
+[remap]
+
+importer="image"
+type="Image"
+path="res://.import/Gray.png-3b269e45aaf7c3d9d8f681692ee7f765.image"
+
+[deps]
+
+source_file="res://Assets/Background/Gray.png"
+dest_files=[ "res://.import/Gray.png-3b269e45aaf7c3d9d8f681692ee7f765.image" ]
+
+[params]
+

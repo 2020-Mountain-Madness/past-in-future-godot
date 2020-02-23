@@ -1,0 +1,13 @@
+[remap]
+
+importer="image"
+type="Image"
+path="res://.import/Purple.png-960bc6d84415aa77cce63d6337a21dac.image"
+
+[deps]
+
+source_file="res://Assets/Background/Purple.png"
+dest_files=[ "res://.import/Purple.png-960bc6d84415aa77cce63d6337a21dac.image" ]
+
+[params]
+
