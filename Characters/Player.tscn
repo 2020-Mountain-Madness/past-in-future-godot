@@ -22,8 +22,10 @@ onready var input_up = \"future_up\" if from_future else \"ui_up\"
 
 
 func _process(delta):
-	handle_movement(delta)
 	handle_animation()
+	
+func _physics_process(delta):
+	handle_movement(delta)
 
 
 func handle_movement(delta):
